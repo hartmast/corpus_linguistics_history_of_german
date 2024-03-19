@@ -1,0 +1,405 @@
+© Leibniz-Institut für Deutsche Sprache, Mannheim
+
+COSMAS II-Server, C2API-Version 4.23.12 - 22.02.2024
+________________________________________________________________________________
+
+Datum         : Dienstag, den 19. März 2024, 18:59:25
+Archiv        : HIST - Archiv der historischen Korpora
+Korpus        : goe - Goethes Werke
+Archiv-Release: Historisches Korpus
+Suchanfrage   : Wort
+Suchoptionen  : Eb+Rb+Di, Flex+Kompos+Sonst+Spez
+Ergebnis      : 361 Treffer
+
+
+Ergebnisübersicht
+
+Quellenansicht, 1 Quelle, nach »Treffer« aufsteigend sortiert.
+
+Anz Treffer (kumulativ) rel. Häuf. Anz Texte Jahrgänge Quelle
+
+        361         361  255.3 pMW        28 1772-1827 Goethe-Korpus        
+
+        361         361  255.3 pMW        28 1772-1827 1 Quelle             
+
+
+KWIC (unsortiert)
+
+Anz. Treffer           : 361
+Anz. exportierte Zeilen: 361
+Angezeigter Kontext    : 20 Wörter links, 20 Wörter rechts
+Kontext umschließt     : gesamten Treffer
+________________________________________________________________________________
+
+GOE       jugendlich darstellend, sprach kein 	Wort.	desto munterer und reizender zeigte sich
+GOE      setzt' ich mich darauf, und ohne ein 	Wort	 zu sagen, sah ich einer solchen Tätigkeit
+GOE hereinkommen sollen; aber mit einem guten 	Wort	 weisen Sie die Leute an mich und scheinen
+GOE mit Lebhaftigkeit fiel er mir beinahe ins 	Wort	 und rief aus: "da Sie so nahe an Weimar
+GOE ihm; wenigstens hätte ich ein ablehnendes 	Wort	 auf ein so unbegrenztes Vertrauen wohl
+GOE    einem Weibe geboren zu sein. durch das 	Wort	 werde alles gemacht! er war guter Dinge
+GOE   Offiziere angesprochen und sich auf das 	Wort	 des Königs berufen, und so wollte niemand
+GOE    bei dieser Gelegenheit ein erbauliches 	Wort	 zu sprechen, so möchte wohl nichts besser
+GOE              die Aufmerksamkeit auf jedes 	Wort	 war groß, die Zuhörer unübersehbar. alle
+GOE     stillschweigend verfahren müsse, kein 	Wort	 sprechen dürfe, wie viel Schreckliches und
+GOE    Verdienste auch seinen Seltsamkeit das 	Wort	 zu reden schien. und gewiß, es war niemand
+GOE   seinem Charakter zugrunde, das er durch 	Wort	 und Tat wirksam zu machen suchte. durch
+GOE      das Notwendigste. hier nahm Daru das 	Wort,	 der, um den Deutschen, denen er so wehe
+GOE      wie vorher. der Pförtner sprach kein 	Wort	 weiter; aber ehe er mich über die Schwelle
+GOE unzeitig, ja unschicklich ausgesprochenes 	Wort	 standen bei den Alten schon in Ansehen,
+GOE       die wir schon früher auf des Grafen 	Wort	 gebaut und deshalb einen ziemlich
+GOE       war äußerst verlegen und wußte kein 	Wort	 zu sagen. der Dolmetsch, in einiger
+GOE    schon losgelassen, fing aber auf jenes 	Wort	 gleich Feuer und sagte, mit seiner
+GOE   Verteidigung die Rede", fiel er mir ins 	Wort,	 "sondern von einer Untersuchung, und
+GOE  alles hat seine Zeit! ein schönes großes 	Wort,	 woran freilich niemand denkt, wenn ihm
+GOE  das Ganze durch, ohne daß eigentlich ein 	Wort	 davon wäre gesprochen worden. will man
+GOE  als die treffliche Dame ein freundliches 	Wort	 an mich wenden wollte. als ich aber
+GOE   Kleinleben der Natur (ich möchte dieses 	Wort	 nach der Analogie von Stilleben
+GOE und derben Zügen jenes höchst christliche 	Wort	 spielend aus: wer sich ohne Sünde fühlt,
+GOE         uns Hamlet schon ein bedenkliches 	Wort	 ins Ohr geraunt hatte, wurden immer
+GOE        dazu entschließen könnte. er hielt 	Wort	 und ich galt immer für den bestfrisierten
+GOE "vergessen Sie Ihre Freunde so bald?" das 	Wort	 Vergessen machte ihn verdrießlich, er
+GOE das brave und hoffnungsreiche altdeutsche 	Wort:	 "was einer in der Jugend wünscht, hat er
+GOE            mit wahrer Zufriedenheit jenes 	Wort	 im besten Sinne wiederholen können: "was
+GOE  nicht mehr verbergen konnte, und ihr das 	Wort	 im Munde stockte. - "ich suchte Georgen",
+GOE     geschickt und ein kurzes freundliches 	Wort	 dazu geschrieben. ich erhielt sogleich
+GOE    nennen, obgleich dies nicht das rechte 	Wort	 ist. die ländliche Familie, der ich
+GOE   machen, konnten wir nicht aufgeben. das 	Wort	 Freiheit klingt so schön, daß man es nicht
+GOE     Sinnesart wüßte ich nur das englische 	Wort	 whimsical, welches, wie das Wörterbuch
+GOE        stimmte ich doch in jenes heilsame 	Wort	 mit ein: "die Evangelisten mögen sich
+GOE   unternimmt, es werde nun durch Tat oder 	Wort	 oder sonst hervorgebracht, muß aus
+GOE    gelten; bei jeder Überlieferung durchs 	Wort	 hingegen, die nicht gerade poetisch ist,
+GOE   sich eine große Schwierigkeit: denn das 	Wort	 muß sich ablösen, es muß sich vereinzeln,
+GOE     zu verständigen. zuletzt nahm ich das 	Wort	 und sagte: "die Literaturen, scheint es
+GOE   ein glückliches naives, ja ein albernes 	Wort,	 ein Mißverstand, eine Paradoxie, eine
+GOE          und mit ihrem ganzen Inhalte, ja 	Wort	 vor Wort, bis auf den heutigen Tag für
+GOE und mit ihrem ganzen Inhalte, ja Wort vor 	Wort,	 bis auf den heutigen Tag für geltend
+GOE  Satze hervorleuchtete. jenes wunderliche 	Wort:	 "wer Gott recht liebt, muß nicht
+GOE     Ausübung, so daß jenes freche spätere 	Wort:	 "wenn ich dich liebe, was geht's dich
+GOE      nicht wollte gelten lassen: denn das 	Wort	 komme keineswegs von Schlitten, als wenn
+GOE    gewesen. wir Deutschen mißbrauchen das 	Wort	 eitel nur allzu oft: denn eigentlich führt
+GOE   und so schien man ganz das evangelische 	Wort	 vergessen zu haben: an ihren Früchten
+GOE          Eigenheiten eine, die hier durch 	Wort	 und Gebärde als Streichen ausgedrückt ist,
+GOE  frommen Pater und wendete mich, ohne ein 	Wort	 zu verlieren, dem Pfade zu, woher wir
+GOE der Geistesgaben aller Art hinweisen; das 	Wort	 Genie ward eine allgemeine Losung, und
+GOE     natürlicher, als daß der Mißbrauch in 	Wort	 und Tat alle geregelte Menschen aufrief,
+GOE   in die Wörterbücher eindrangen, und das 	Wort	 Genie eine solche Mißdeutung erlitt, aus
+GOE      aber allen Völkern gleich angehörige 	Wort	 vielleicht gebracht, wenn nicht der durch
+GOE      Begriff, noch viel weniger unter ein 	Wort	 gefaßt werden könnte. es war nicht
+GOE  sänge als jemals, ich konnte es deutlich 	Wort	 vor Wort verstehn; ich hatte das Ohr so
+GOE   jemals, ich konnte es deutlich Wort vor 	Wort	 verstehn; ich hatte das Ohr so nahe
+GOE       Ausdruck, als unmittelbar passendes 	Wort	 anwenden und benutzen mag. diese
+GOE  alles umfassende Formel, das eigentliche 	Wort	 des Rätsels gefunden werden kann. dritte
+GOE       bedienten. ingleichen haben wir das 	Wort	 Purpur gebraucht, um das reine, in der
+GOE     weswegen sie auch die Alten durch das 	Wort	 "Kochung" (pephis) ausgedrückt haben. alle
+GOE  vor sich zu haben und es nicht durch das 	Wort	 zu töten. dabei sind wir in den neuern
+GOE    so genannt; doch wir brauchen hier das 	Wort	 in seinem ersten, allgemeinern Sinne. 851.
+GOE     werden. echter Ton  889. wenn man das 	Wort	 Ton oder vielmehr Tonart auch noch künftig
+GOE          die Rede ist. ein ausgesprochnes 	Wort	 tritt in den Kreis der übrigen, notwendig
+GOE     man soll sich, heißt es, nicht an das 	Wort,	 sondern an den Geist halten. gewöhnlich
+GOE  gewöhnlich aber vernichtet der Geist das 	Wort	 oder verwandelt es doch dergestalt, daß
+GOE        wurde. kein ehmals ausgesprochenes 	Wort	 soll gelten, alles, was weise war, soll
+GOE    gar die Rede nicht. das ausgesprochene 	Wort,	 die gebildete Phrase, die mehr oder
+GOE     läßlich; es wird eigentlich durch das 	Wort	 nichts bestimmt, bepfählt und festgesetzt,
+GOE  und befehlshaberisch. der Begriff ist im 	Wort	 fertig aufgestellt, im Worte erstarrt, mit
+GOE          gleichfalls Schritt vor Schritt, 	Wort	 vor Wort folgen, um zu zeigen, daß er wie
+GOE gleichfalls Schritt vor Schritt, Wort vor 	Wort	 folgen, um zu zeigen, daß er wie sein
+GOE   Lehre ihr ganzes Glück schuldig. da das 	Wort	 Charakter ausgesprochen ist, so werde
+GOE   Worten lebte, so war sie auch durch ein 	Wort	 zu heilen. man hatte die Ursache der
+GOE   sehr verschieden, und nun faßte man ein 	Wort	 auf, den Ausdruck Zerstreuung, und setzte
+GOE         ohne Widerspruch aufgenommen. das 	Wort	 Zerstreuung kommt schon in den ältesten
+GOE            und auf diese Weise wird jenes 	Wort	 herangetragen, bis es endlich in dem neu
+GOE     ein Gespenst nennt, teils weil dieses 	Wort,	 durch Bezeichnung der prismatischen
+GOE        sich hergebracht und erworben. das 	Wort	 Augentäuschungen, welches der sonst so
+GOE  Landschaft ohne Blau zu malen. sie hielt 	Wort	 und es entsprang ein sehr hübsches
+GOE    Gott sei Dank, Venedig mir kein bloßes 	Wort	 mehr, kein hohler Name, der mich so oft,
+GOE        der Risse gestärkt werden. nun ein 	Wort	 von der Ausführung. nur die Häupter und
+GOE        denn vom höchsten bis zum tiefsten 	Wort	 bezieht sich alles auf Eigentümlichkeiten
+GOE  beiden Fällen war es gut. jetzt noch ein 	Wort	 an die Kleinen. den Kindern mögt ihr
+GOE            und Zerstreuung ab, ein kluges 	Wort	 aufs Papier zu bringen. dazu kommen noch
+GOE          wollen meine Freunde ein näheres 	Wort	 hören, so lesen sie, was Winckelmann vom
+GOE  so oft beschrieben und belobt sind, kein 	Wort.	"vedi Napoli e poi muori!" sagen sie hier,
+GOE     über die ganze Person verbreitet, aus 	Wort	 und Wesen gar anmutig hervorleuchtet. auch
+GOE    die Dame vom Hause wollte mir auch zum 	Wort	 verhelfen, sprach über die herrliche Lage
+GOE    mich los. "es ist recht schön, daß Sie 	Wort	 halten!" rief sie, "setzen Sie sich bei
+GOE     ich Filangieri nie ein gleichgültiges 	Wort	 reden hören. er gleicht darin wie in
+GOE       nun lassen Sie uns ein vernünftiges 	Wort	 reden! denn was war das wieder für ein
+GOE   heute mir zur Hand, und gleich soll ein 	Wort	 dagegen abgehen. wie gerne mag ich, an die
+GOE fuhr ich ihn an, er hatte noch kein böses 	Wort	 von uns gehört, er war der gutmütigste
+GOE die Berge. von der Vase des Doms noch ein 	Wort.	auf derselben steht ein Held in völliger
+GOE        suchte der Küster immer wieder das 	Wort	 zu erhaschen, öffnete die geheimen Räume,
+GOE   ist mir erst die Odyssee ein lebendiges 	Wort.	ferner muß ich Dir vertrauen, daß ich dem
+GOE  dankbar dagegen erwidern, als er mir ins 	Wort	 fiel und ausrief: "ich darf keinen
+GOE wozu sich fünfhunderttausend Menschen das 	Wort	 gegeben haben. dann ist aber auch die
+GOE  laßt mich auch wieder, meine Lieben, ein 	Wort	 zu euch reden. mir geht es sehr wohl, ich
+GOE     nicht mehr ruhen, bis mir nichts mehr 	Wort	 und Tradition, sondern lebendiger Begriff
+GOE und sogleich erinnern wir uns an das edle 	Wort:	 "die Linke soll nicht wissen, was die
+GOE    nur drauf, daß mir nichts Name, nichts 	Wort	 bleibe. was schön, groß, ehrwürdig
+GOE Zufall mich hindre, euch ein vernünftiges 	Wort	 zu sagen. gestern hab' ich vieles gesehen
+GOE                ich weiß nicht, ob ich ein 	Wort	 von dem Konzert sagte, das ich zu Ende
+GOE  beruhigt und entzückt - dies vernünftige 	Wort	 ließ niemand gelten. nun wurde derjenige,
+GOE     den 12. Oktober 1787 nur ein flüchtig 	Wort,	 und zuerst den lebhaftesten Dank für die
+GOE   beruhigt mich, und ich verlange auf ein 	Wort	 darüber, das nun wohl unterwegs ist. das
+GOE     ich weiß nicht welchem Vorwande, sein 	Wort	 zurückgenommen und sich von seiner
+GOE      längst hat ein weiser Mann das wahre 	Wort	 ausgesprochen: "der Mensch, dessen Kräfte
+GOE    daß es hübsch ist, wenn ein Papst sein 	Wort	 hält. deswegen übergeben Sie mir gedachtes
+GOE Enden widerhallt, desto mehr verliert das 	Wort	 von seinem fürchterlichen Sinn, desto mehr
+GOE       ohne Sprache, als Mad. Angelika das 	Wort	 nahm und, indessen jene sich vorbog, zu
+GOE    hier nicht zu wiederholen, daß wir das 	Wort	 Manier in einem hohen und respektablen
+GOE     haben. es ist uns bloß angelegen, das 	Wort	 Stil in den höchsten Ehren zu halten,
+GOE       an, es kommt darauf an, daß bei dem 	Wort,	 wodurch man ein Kunstwerk zu erläutern
+GOE     kalt lassen. und zuletzt nur noch ein 	Wort	 über das Verhältnis des Gegenstandes zur
+GOE      getäuscht? Zuschauer. getäuscht, das 	Wort	 möchte ich nicht brauchen - und doch ja -
+GOE   "möchte es wohl nötig sein, daß wir das 	Wort	 Schönheit und seinen Ursprung näher
+GOE       ich. erlauben Sie, daß ich auch ein 	Wort	 einrede! der Gast. (etwas schnöde) von
+GOE  ihn einen Kopisten nennen und mit diesem 	Wort	 gewissermaßen einen ungünstigen Begriff
+GOE  man immer aufs neue, durch Reflexion und 	Wort	 ihnen etwas abzugewinnen. hiezu werden wir
+GOE  ja selbst von dem Höchsten, was sich mit 	Wort	 und Sprache beschäftigt, von Poesie und
+GOE           indessen andre leicht das ganze 	Wort	 entziffern. auch finden wir bei ihm keine
+GOE     auch nicht abgeneigt bin, darüber ein 	Wort	 öffentlich auszusprechen, so begegnen mir
+GOE      heftigen Charakter, als er des Herrn 	Wort	 vernommen, eilig hinter Judas her, der
+GOE     Geschmack (daß wir dieses unbestimmte 	Wort	 hier in entschiedenem Sinne brauchen), den
+GOE  ihm verursacht das vom Herrn gesprochene 	Wort	 bloß eine Unterredung; mehrere der Apostel
+GOE      um das Schwerste zu unternehmen. das 	Wort,	 die Voraussagung des Herrn, es werde ihn
+GOE      zu sehen wünschten eines, der seinem 	Wort	 mit Mienen sowohl als Gebärde Nachdruck
+GOE   scheitert man an dieser. § 25. wenn ein 	Wort	 vorkommt, das vermöge seines Sinnes sich
+GOE    und mit aller Gewalt dieses bedeutende 	Wort	 herausstoße und dann wieder zu dem ruhigen
+GOE  so steige und falle bis zu dem geltenden 	Wort,	 damit solches in einer vollen und runden
+GOE  mit einem gewissen Gewicht soll da jedes 	Wort	 ausgesprochen werden. § 32. der Silbenbau
+GOE  das vorige. doch hört man immer noch das 	Wort-	 und Bildgeklapper. Lobgesang auf Maria.
+GOE       und schnellste Überlieferung durchs 	Wort;	 denn dieses ist eigentlich
+GOE  viel weniger sinnliche Tat als geistiges 	Wort.	er läßt geschehen, was sich leicht
+GOE ja widerlich erscheinen. durchs lebendige 	Wort	 wirkt Shakespeare, und dies läßt sich beim
+GOE   dessen Verdienste durch Betrachtung und 	Wort	 nicht zu erschöpfen sind? als daher ein
+GOE      hin und wider schwanken. ein drittes 	Wort	 kann man im zartesten Sinn hinzufügen,
+GOE   hier bewahrheitet sich jedoch ein altes 	Wort:	 der gute Wille hilft zu vollkommener
+GOE         als Beweise; ja er zieht dasselbe 	Wort,	 wo es auch und in welchem Sinne es
+GOE , doch zu leiten nicht versteht. noch ein 	Wort	 für junge Dichter. unser Meister ist
+GOE       Euch! ich muß Eure Freude durch ein 	Wort	 unterbrechen: Norberg kommt! in vierzehn
+GOE    und Wilhelm war überzeugt, es sei kein 	Wort	 seiner Geschichte auf die Erde gefallen.
+GOE             denn sie hatte auch nicht ein 	Wort	 von dem letzten Teile seiner Erzählung
+GOE einzuleiten. Mariane dagegen wollte nicht 	Wort	 haben, daß sie ihn so lange nicht bemerkt
+GOE   sie könnten uns ein großes, treffliches 	Wort	 ans Herz reden! ein Ton, der durch die
+GOE  weiß". "leider höre ich schon wieder das 	Wort	 Schicksal von einem jungen Manne
+GOE             denen oft nur ein einsilbiges 	Wort	 zur Entwicklung fehlt, umsäglich
+GOE    zugleich ein munteres und freundliches 	Wort	 zurief. sie waren kaum auf der Mühle
+GOE     so sind alle, nur wollen sie es nicht 	Wort	 haben". unter mancherlei Gesprächen, in
+GOE     sehen, wenn er durch irgend ein edles 	Wort	 oder eine gute Tat einen so allgemeinen
+GOE  Orten ihres Aufenthalts und zuletzt kein 	Wort	 mehr, nicht einmal Dank für das Geld, das
+GOE      Kind! du bist ja mein! wenn dich das 	Wort	 trösten kann. du bist mein! ich werde dich
+GOE               hat der Schwarzkünstler das 	Wort	 vergessen, womit er diese Geisterflut
+GOE    doch sagen kann:' hier oder da ist das 	Wort	 der Auflösung'. seine Menschen scheinen
+GOE  der sie einander ansahen, nahm Serlo das 	Wort:	 "Sie machen der Vorsehung kein sonderlich
+GOE    da du zugleich ein feierlich gegebenes 	Wort	 halten und dich auf eine edle Weise von
+GOE   abgeschickt, als Wilhelm auf der Stelle 	Wort	 hielt und zu Serlos und der übrigen großen
+GOE      kaum überlesen konnte, da er sie mir 	Wort	 vor Wort vorsagte, spielte ich sie mit
+GOE  überlesen konnte, da er sie mir Wort vor 	Wort	 vorsagte, spielte ich sie mit Glück; nur
+GOE    unmöglich, ein freundliches, höfliches 	Wort	 mit ihr zu reden, so sehr hasse ich sie;
+GOE    "aber auch heute abend kein vernünftig 	Wort	 mehr! alles kommt auf den ersten Eindruck
+GOE  Absatze herumdrehte. Wilhelm konnte kein 	Wort	 hervorbringen, und Serlo, der seine
+GOE  ich finde, Gott sei Dank! kein deutsches 	Wort,	 um perfid in seinem ganzen Umfange
+GOE     schaudert, wenn ich ein französisches 	Wort	 höre!" auf diese Weise konnte sie
+GOE zu Hause, als sie vor Heiserkeit kaum ein 	Wort	 mehr sprechen konnte; sie gestand aber
+GOE Art von Lähmung der Zunge, so daß sie ein 	Wort	 fürs andere sprach; man brachte sie zu
+GOE    gemeint; diesmal war es nur ein leeres 	Wort,	 denn die Empfindungen für den
+GOE      ihre Zufriedenheit, man gab sich das 	Wort	 auf den bald zu hoffenden Fall, daß man
+GOE sie von ihm kamen, und wußte am Ende kein 	Wort	 von allem dem, was darin gestanden hatte.
+GOE   mich glücklich zu machen, würde ihm das 	Wort,	 das er mir gegeben, heilig sein. ich
+GOE    Bürgen; ihm aber gäbe ich hiermit sein 	Wort	 ohne Bedenken zurück und wünschte, daß er
+GOE  "Sie brauchen", versetzte ich hier, "das 	Wort	 Aufopferung, und ich habe manchmal
+GOE      rief er aus. "was soll das mystische 	Wort	 heißen? was fliehen? wohin fliehen? weit
+GOE     diesem jungen Menschen nur ein wahres 	Wort	 aus dem Munde ginge!" - "so hat er also
+GOE    keine Tiefe, kein Vor und Zurück, kein 	Wort	 drückt diesen immer gleichen Zustand aus.
+GOE  aus, und dieses seltsame, unbegreifliche 	Wort	 ist hell und klar gegen die Finsternis
+GOE was er verlangte; denn er brachte nie das 	Wort	 hervor, das er im Sinne hatte. sehr
+GOE  sahen, war er nicht imstande, das rechte 	Wort	 hervorzubringen. seine Ungeduld stieg aufs
+GOE  ewig lieben werde, daß ich mich auf sein 	Wort	 verlasse. ach!" rief sie aus, indem sie
+GOE daß ich mich erinnere, ein ausdrückliches 	Wort	 von ihr gehört zu haben, es war einmal so
+GOE   las mit unaussprechlichem Entzücken das 	Wort	 Treue von ihrer geliebten Hand und mit
+GOE    aufgenommen zu werden. und daß man ihm 	Wort	 gehalten hat, habe ich mit eignen Augen
+GOE Böses damit gestiftet, und jetzt, da dein 	Wort	 das Glück meines Lebens entscheiden
+GOE konnte sich nunmehr manches Lied, manches 	Wort	 dieses guten Kindes erklären. er bat
+GOE Gesichte nicht gewohnt war. er sagte kein 	Wort.	Wilhelm und Natalie waren nicht wenig
+GOE    sich wieder zusammen. Wilhelm nahm das 	Wort	 und sagte: "sonst, da ich ohne Zweck und
+GOE        sie war außer Atem und konnte kein 	Wort	 sagen; Felix, noch in einiger Entfernung,
+GOE    ihm erwidern konnte, so behielt er das 	Wort	 ziemlich allein. "verwundert euch nicht",
+GOE           zu sein, wo keins das andere zu 	Wort	 kommen läßt. diese Unterhaltung geben wir
+GOE       darauf: "und wenn ihr mir ein gutes 	Wort	 gebt, gehe ich auch mit". Jarno schüttelte
+GOE     der Marchese und der Abbe führten das 	Wort;	 Natalie, die sich wieder in die Gegenwart
+GOE      ihre Hand gegeben, sie sprachen kein 	Wort,	 sahen auf das Kind und sahen einander an.
+GOE       so scheint es, heute nicht mehr zum 	Wort".	"ist nicht alles, was ich's sage",
+GOE vor Erstaunen und Aufmerksamkeit nicht zu 	Wort	 kommen konnte, sagte der junge Mann:
+GOE  Gipfel sei es das letztemal, daß ich das 	Wort	 Trennung vor dir ausspreche. mein Leben
+GOE  "Marie!" rief er ihr nach, "nur noch ein 	Wort!"	- "also heißt sie auch Marie!" dachte
+GOE     sich an den Rand des Quells, ohne ein 	Wort	 zu sagen und mit einem Seufzer. "seltsame
+GOE     Grimme , doch flog noch manches wilde 	Wort	 ; so macht' ich mich mit Donnerstimme noch
+GOE    kenne? ich weiß noch recht gut, dieses 	Wort	 schien sie zu durchbohren. sie öffnete
+GOE er beklagte sich auch wohl und sprach das 	Wort	 Undankbarkeit aus. gewiß kannte er die
+GOE        Nachdenkens, mit ruhiger Miene das 	Wort	 wieder aufnahm und sagte: "dies klärt mich
+GOE   in Heiterkeit. hierauf nahm Wilhelm das 	Wort	 und sagte bedächtig: "kurzgefaßte Sprüche
+GOE  mir auch von unsern Geschäftsmännern ein 	Wort	 zu sagen, wie es mit unsern
+GOE       seien so gut als ein einziges gutes 	Wort,	 das der Freund dem Freunde sagen oder
+GOE     der Bote bringt mir doch von Euch ein 	Wort	 zurück? Juliette an die Tante wir haben
+GOE     sagte der Freund, "doch will ich dies 	Wort	 nicht vergebens gehört haben". beim
+GOE    da Sie mich los sind. Lucidor. nur ein 	Wort!	auf Ihnen lastet eine schwere
+GOE   Bitte, gegen niemanden hievon irgendein 	Wort	 zu erwähnen. denn sollte nicht jeder
+GOE        für ihren Vater, für sie ein gutes 	Wort	 bei meinem Oheim einzulegen. da ich wußte,
+GOE     Sie nicht ein Mann, der durchaus sein 	Wort	 zu geben ablehnt, ich würde von Ihnen das
+GOE   oder gar ausspreche: Sie glauben meinem 	Wort,	 daß es ihr wohl geht, und sind
+GOE  vertrat, seit mehreren Jahren kein böses 	Wort	 gegeben: denn alles ging in der strengsten
+GOE    aber, gleichsam wie beim Erwachen, ein 	Wort,	 ein Blick versetzt die Abwesende wieder
+GOE  Vater, der soll für mich reden!' -' kein 	Wort	 mit ihm darüber!' versetzte sie, indem sie
+GOE Verbindung beschleunigt, ohne daß Sie ein 	Wort	 aussprechen. ja, Sie sind es, dem ich mein
+GOE    zu ihrer holden Freundin gewendet, das 	Wort	 auf und sagte: "warum machen wir solche
+GOE    sei; verzeihen Sie daher, wenn ich das 	Wort	 eines Ehrenmannes in Zweifel zu ziehen
+GOE in diesem Augenblick weder ein herzliches 	Wort	 von den Lippen noch eine Phrase glücken.
+GOE   Gondel gar bald wieder heranfahren. das 	Wort	 Gondel nehme man aber nicht im traurigen
+GOE  zu bringen, wenn wir das eben gebrauchte 	Wort	 Wildheuer mit wenigem erklären. man
+GOE      alten Weise nur noch ein allgemeines 	Wort,	 veranlaßt durch eine Stelle Ihres Briefes
+GOE        das Gewünschte zu finden. auf mein 	Wort	 unternimmt man's versuchsweise, es
+GOE    es mir Schadenfreude. ich habe mir das 	Wort	 gegeben, ein solches Verfahren niemals
+GOE            Kunst zu beweisen. und wie ein 	Wort	 das andere gibt, so folgt noch glücklicher
+GOE   imstande ist". Lenardo nahm hierauf das 	Wort	 und vermittelte diese kleine Mißhelligkeit
+GOE         seiner anatomischen Studien, fast 	Wort	 vor Wort, wie er sie abgestattet hatte,
+GOE       anatomischen Studien, fast Wort vor 	Wort,	 wie er sie abgestattet hatte, weshalb er
+GOE  Veranlassung das offenbare Geheimnis ins 	Wort	 getreten wäre. sie stand auf und sagte:
+GOE   Überlegung, mußt' ich fühlen, daß jedes 	Wort	 die Verwirrung nur vermehren würde. doch
+GOE  eine Weile; der Jüngling nahm zuerst das 	Wort	 und sagte: "der Augenblick ist von zu
+GOE Schoße, weinte bitterlich und konnte kein 	Wort	 sprechen; Makarie, ihre Tränen auffassend,
+GOE      in späteren Zeiten geben möchte. das 	Wort:	 es solle kein mit der Geometrie
+GOE          nehmen wir sodann das bedeutende 	Wort	 vor: erkenne dich selbst, so müssen wir es
+GOE mehr man einsieht und anschaut, daß jedes 	Wort,	 das wir allgemein auffassen und im
+GOE            grundernstliche Bestreben: das 	Wort	 mit dem Empfundenen, Geschauten,
+GOE       wir brauchen in unserer Sprache ein 	Wort,	 das, wie Kindheit sich zu Kind verhält,
+GOE     den wenigen Astronomen, denen wir auf 	Wort	 und Rechnung glauben müssen? einer neuen
+GOE   ich nur mir selbst; ein ausgesprochenes 	Wort	 fördert selten, es erregt meistens
+GOE    Dingen ich weiß nicht was machen". das 	Wort	 Schule, wie man es in der Geschichte der
+GOE      gilt auch in der bildenden Kunst das 	Wort	 Schule nur von den Anfängen; denn sobald
+GOE den Eingebildeten sagte sie ein belehrend 	Wort,	 ohne sie zu beleidigen oder zu beschämen.
+GOE      immer etwas Stoffartiges kleben. das 	Wort	 Kraft bezeichnet zunächst etwas nur
+GOE    Ausdrucks, er anthropomorphosierte das 	Wort	 des Rätsels und nannte das, wovon die Rede
+GOE  mich und Geschwister mögt ihr an solches 	Wort	nur nicht erinnern : wir denken: Ort für
+GOE Fördernis durch ein einziges geistreiches 	Wort	 Herr Dr. Heinroth in seiner Anthropologie,
+GOE    zu was für Betrachtungen jenes einzige 	Wort,	 begleitet von solcher Billigung, mich
+GOE        fallen wollte. nun aber, durch das 	Wort	 gegenständlich ward ich auf einmal
+GOE   des Daseins eines wirklichen Wesens das 	Wort	 Gestalt. er abstrahiert bei diesem
+GOE        schwanke. daher unsere Sprache das 	Wort	 Bildung sowohl von dem Hervorgebrachten,
+GOE   Gestalt sprechen; sondern, wenn wir das 	Wort	 brauchen, uns allenfalls dabei nur die
+GOE  hier von selbst, daß wir ein allgemeines 	Wort	 haben müßten, wodurch wir dieses in so
+GOE            sogleich glücklich das lösende 	Wort!	werdend betrachte sie nun, wie nach und
+GOE    ausreden, sondern fiel mir freudig ins 	Wort,	 nun sei er zufrieden, getröstet und von
+GOE  Naturphilosophie nennen". diese Äußerung 	Wort	 für Wort zu kommentieren, den Sinn
+GOE          nennen". diese Äußerung Wort für 	Wort	 zu kommentieren, den Sinn derselben
+GOE       Sinne bezeichnen wir aber durch das 	Wort	 Materialien unzusammenhängende, wohl auch
+GOE nötig. wir müssen daher dem französischen 	Wort	 materiaux einen viel höheren Sinn
+GOE             ein gleichfalls unglückliches 	Wort,	 mechanisch mit dem vorigen mechanischen
+GOE           ist gleichfalls ein technisches 	Wort	 des Zimmerhandwerks und drückt aus, die
+GOE    aneinanderzufügen. ein Fall, wo dieses 	Wort	 zulässig und ausdrücklich erscheint, ist,
+GOE     Männer offenbar widerstrebt. noch ein 	Wort	 führen wir an, das Wort Plan. weil sich,
+GOE          noch ein Wort führen wir an, das 	Wort	 Plan. weil sich, um die Materialien wohl
+GOE       und dies lag so nahe, indem sie das 	Wort	 Type im Kontext der Rede gar wohl zu
+GOE               wir müssen ein so seltsames 	Wort	 bilden, da die Franzosen bei dieser
+GOE  die Franzosen bei dieser Gelegenheit das 	Wort	 refoulement brauchen) und bei
+GOE    den Unterdrückungsgeist derer, die das 	Wort	 Freiheit immer im Munde führten. er hatte
+GOE Falle der große Haufe sich treu blieb und 	Wort	 für Tat, Schein für Besitz mit großer
+GOE   mit Heftigkeit aus; "wenn ich doch dies 	Wort	 nicht wieder sollte aussprechen hören! wie
+GOE   können, besonders in diesem Punkte! das 	Wort	 Herrschaft ist ihnen ein so angenehmes
+GOE    Herrschaft ist ihnen ein so angenehmes 	Wort,	 und es klingt so vornehm, sich selbst
+GOE       wenn ihm ein solches unbedachtsames 	Wort	 entwischt war. jeder Umstehende suchte das
+GOE          daß man auch jenseits des Grabes 	Wort	 halten könne". die Gesellschaft fing aufs
+GOE  und in diesem Sinne scheint das paradoxe 	Wort	 gesagt zu sein, daß die Gottheit selbst an
+GOE    um sich zu erklären und sein gegebenes 	Wort	 im ganzen Umfange zu erfüllen. sie kam in
+GOE  nahm sich ein Herz, sie an ihr gegebenes 	Wort	 zu erinnern und jene Augenblicke ihr ins
+GOE  gab ihm auf eine sehr zierliche Art sein 	Wort	 zurück, ohne sein Herz ganz loszulassen,
+GOE    einige Gefahr dabei". - "wenn ich mein 	Wort	 halte, so laufe ich doch keine Gefahr?" -
+GOE so", sagte der Alte; "wenn Ihr aber nicht 	Wort	 haltet, kann es wahr werden. die Hand wird
+GOE    das nichts zu bedeuten, ich werde mein 	Wort	 halten, um diese schwarze Haut und diese
+GOE   ich dir, denn ich höre das ahnungsvolle 	Wort	 zum drittenmal". sie hatte kaum
+GOE    unaussprechlichen Geist, und das erste 	Wort	 seines Mundes war' Lilie'. ' liebe Lilie!'
+GOE            bewirken". "kommt das traurige 	Wort",	 rief Charlotte, "das man leider in der
+GOE glaubt sich nunmehr berechtigt, sogar das 	Wort	 Wahlverwandtschaft anzuwenden, weil es
+GOE        und uns Lehrern wenigstens einiges 	Wort	 dabei gönnten, merkte ich wohl bald, daß
+GOE   jeden Blicke, jede Bewegung, ein halbes 	Wort,	 einen Laut. ihre ruhige Aufmerksamkeit
+GOE     bis Eduard sie durch ein freundliches 	Wort	 aus der Betrachtung aller der
+GOE    angreift", rief er aus, "wer mir durch 	Wort,	 ja durch Tat diesen Grund aller
+GOE     junge Leute sehr selten, und wenn sie 	Wort	 halten, hält es ihnen die Welt nicht".
+GOE   sich selbst überrascht, konnte sie kein 	Wort	 hervorbringen. der Graf fuhr
+GOE  sah vor sich hin. der Hauptmann nahm das 	Wort	 und sagte: "mit den Gefühlen der
+GOE  wie recht sie hatte. ein ausgesprochenes 	Wort	 ist fürchterlich, wenn es das auf einmal
+GOE     es aber nicht über sich gewinnen, das 	Wort	 Scheidung auch nur im Vorbeigehn
+GOE            betroffen; sie hatte ein gutes 	Wort	 an ihn gewendet, sie gönnte dem Bräutigam
+GOE  erregt Widerwillen. jedes ausgesprochene 	Wort	 erregt den Gegensinn. Widerspruch und
+GOE  es nicht sagen? warum soll ich das harte 	Wort	 nicht aussprechen: dies Kind ist aus einem
+GOE  einen Augenblick, sie gab Charlotten das 	Wort,	 das sie sich schon selbst gegeben hatte.
+GOE daß jenes vom Augenblick ihm abgedrungene 	Wort	 gegen die folgenden Ereignisse für
+GOE vor sie. er bittet sie inständig, nur ein 	Wort	 zu reden, ihren Willen zu erklären. er
+GOE    wieder hören? wirst du nicht mit einem 	Wort	 für mich ins Leben zurückkehren? gut, gut!
+GOE ihres ersten Mannes auszulöschen, daß ich 	Wort	 für Wort wiederholen müßte, um dir die
+GOE     Mannes auszulöschen, daß ich Wort für 	Wort	 wiederholen müßte, um dir die reine
+GOE   allem, was sie sagte, ich sah mit jedem 	Wort	 neue Reize, neue Strahlen des Geistes aus
+GOE   darauf denn der junge Mensch wieder das 	Wort	 nahm: "Sie nannten den bösen Humor ein
+GOE       wie sie mir gefällt? - gefällt! das 	Wort	 hasse ich auf den Tod. was muß das für ein
+GOE sie nur die erste Note davon greift. kein 	Wort	 von der Zauberkraft der alten Musik ist
+GOE     könnte einen Augenblick, wie ich mein 	Wort	 halte, das ich ihr in der des Todes gab:
+GOE vergehen. nie war ein größeres, stolzeres 	Wort	 über mich ausgesprochen worden - und sie
+GOE   Sinn? das macht mich zu lachen, wie das 	Wort	 in meine Feder kommt. o ein bißchen
+GOE  ihn durch, man findet immer ein besseres 	Wort,	 eine reinere Partikel". - da möchte ich
+GOE     und es nicht glaubte und noch ein gut 	Wort	 von ihr hoffte und - was du willst.
+GOE   durfte Sie nur halb verteidigen". jedes 	Wort,	 das sie sprach, ging mir wie ein Schwert
+GOE              Dukaten geschickt, mit einem 	Wort,	 das mich bis zu Tränen gerührt hat; also
+GOE  sehr niedergeschlagen aussah. ihr erstes 	Wort	 war: "guter Herr, ach, mein Hans ist mir
+GOE     so wenig weiß als ich, nicht gern ein 	Wort	 verliere. was ist es anders als
+GOE   danke deiner Liebe, Wilhelm, daß du das 	Wort	 so aufgefangen hast. ja, du hast recht:
+GOE     Verwirrung entgegen: "Sie haben nicht 	Wort	 gehalten". - "ich habe nichts
+GOE    warum zaudert mein Salgar? hat er sein 	Wort	 vergessen? - da ist der Fels und der Baum
+GOE       Stimme: "Lotte! Lotte! nur noch ein 	Wort!	ein Lebewohl!" - sie schwieg. - er harrte
+GOE       Lotte, ich habe keinen Sinn für das 	Wort:	 der letzte! stehe ich nicht da in meiner
+GOE       - was heißt das? das ist wieder ein 	Wort,	 ein leerer Schall, ohne Gefühl für mein
+GOE du in jener fatalen Gesellschaft mir kein 	Wort	 sagen, keine Hand reichen konntest? o, ich
+GOE             Werkzeug dem Knaben, ohne ein 	Wort	 vorbringen zu können, und als der zum
+GOE     Gott!" dies ist ein schönes löbliches 	Wort;	 aber Gott anerkennen, wo und wie er sich
+GOE mehr man einsieht und anschaut, daß jedes 	Wort,	 das wir allgemein auffassen und im
+GOE sind noch keine Wunder. 89 wenn ein gutes 	Wort	 eine gute Statt findet, so findet ein
+GOE  gute Statt findet, so findet ein frommes 	Wort	 gewiß noch eine bessere. 90 so wie der
+GOE   154 wir brauchen in unserer Sprache ein 	Wort,	 das, wie Kindheit sich zu Kind verhält,
+GOE  in einem Zeitraum von dreißig Jahren das 	Wort	 Gemüt nicht aussprechen, dann würde nach
+GOE         was wir als Handlung und Tat, als 	Wort	 und Schrift gegen die Außenwelt richten;
+GOE   erlebt, ist ja gerade Handlung und Tat, 	Wort	 und Schrift, die von uns in glücklichen
+GOE    es mir Schadenfreude: ich habe mir das 	Wort	 gegeben, ein solches Verfahren niemals
+GOE  in späteren Zeiten geben möchte. 353 das 	Wort,	 es solle kein mit der Geometrie
+GOE      356 nehmen wir sodann das bedeutende 	Wort	 vor: erkenne dich selbst, so müssen wir es
+GOE            grundernstliche Bestreben, das 	Wort	 mit dem Empfundenen, Geschauten,
+GOE     den wenigen Astronomen, denen wir auf 	Wort	 und Rechnung glauben müssen? 421 die
+GOE         Sprache". 424 ein ausgesprochenes 	Wort	 tritt in den Kreis der übrigen, notwendig
+GOE     man soll sich, heißt es, nicht an das 	Wort,	 sondern an den Geist halten. gewöhnlich
+GOE  gewöhnlich aber vernichtet der Geist das 	Wort	 oder verwandelt es doch dergestalt, daß
+GOE  eine Phrase, beides prägt sich als totes 	Wort	 dem Gedächtnis ein. 452 ein unzulängliches
+GOE   ich nur mir selbst; ein ausgesprochenes 	Wort	 fördert selten, es erregt meistens
+GOE     755 "vis superba formae". ein schönes 	Wort	 von Johannes Secundus. 756 das Was des
+GOE         Stille, und wenn euch ein tadelnd 	Wort	 trifft, so laßt's ja higehn; aber reizt
+GOE         der Vernunft und sucht sie durchs 	Wort	 zu lösen (Naturphilosophie,
+GOE   Natur und Vernunft und sucht sie durchs 	Wort	 und Bild zu lösen. 905 Mystik: eine
+GOE      Erklärung: Reich der Philosophie. 907	 Wort	 und Bild sind Korrelate, die sich
+GOE und Heilsordnung, in Bibel und Fibel sich 	Wort	 und Bild immerfort balancieren. wenn man
+GOE  eine sehr angenehme Wirkung tun. 924 das 	Wort	 Schule, wie man es in der Geschichte der
+GOE      gilt auch in der bildenden Kunst das 	Wort	 Schule nur von den Anfängen: denn sobald
+GOE     allen negativen Purismus, daß man ein 	Wort	 nicht brauchen soll, in welchem eine andre
+GOE    und der Nachbar hat ein entscheidendes 	Wort?	 1019 der pedantische Purismus ist ein
+GOE   Sinnes und Geistes (z. B. das englische 	Wort	 grief). 1020 die Muttersprache zugleich
+GOE          Wortes gelten läßt, da ihm jenes 	Wort	 nie lebendig war, weil er nichts dabei
+GOE   einer seltenen Empfindung ... 1024 kein 	Wort	 steht still, sondern es rückt immer durch
+GOE   mündlich verhandeln. das ausgesprochene 	Wort	 ist sogleich tot, wenn es nicht durch ein
+GOE  auf ein geselliges Gespräch! gelangt das 	Wort	 nicht schon tot zu dem Hörer, so ermordet
+GOE Ferne, der Folge. 1036 ein ausgesprochnes 	Wort	 fordert sich selbst wieder.
+GOE sodann aber die idealen Wirkungen, die in 	Wort	 und Tat von ihm ausgingen. 1057 wenn ich
+GOE    er versteht. 1198 jedes ausgesprochene 	Wort	 erregt den Gegensinn. 1199 Vernünftiges
+
+
+Zusammensetzung des aktiven Korpus
+
+Korpus-Ansicht, 1 Eintrag, nach »Korpus« aufsteigend sortiert.
+
+ Texte    Wörter Jahrgänge Korpus            
+
+    29 1.414.095 1772-1828 GOE Goethe-Korpus
+
+    29 1.414.095 1772-1828 1 Korpus         
